@@ -1,6 +1,7 @@
 #!/bin/bash
 # Port of pkgbuild anbox-image-gapps to work on debian based distros.
 #
+# Maintainer: Jack Chen <redchenjs at live dot com>
 # Contributor: Mark Wagie <mark dot wagie at tutanota dot com>
 # Contributor: Robosky <fangyuhao0612 at gmail dot com>
 # Contributor: Tibério A. dos Santos <tiberius.santos at yahoo dot com>
